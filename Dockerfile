@@ -40,11 +40,13 @@ RUN rm -rf /etc/apt/sources.list && \
 	curl \
 	htop \
 	vlc \
+	aircrack-ng \
 	vim \
 	zip \
 	sudo \
 	net-tools \
 	iputils-ping \
+	tmux \
 	build-essential \
 	#python3 \
 	#python3-pip \
