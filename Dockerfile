@@ -38,6 +38,8 @@ RUN rm -rf /etc/apt/sources.list && \
 	wget \
 	git \
 	curl \
+	htop \
+	vlc \
 	vim \
 	zip \
 	sudo \
